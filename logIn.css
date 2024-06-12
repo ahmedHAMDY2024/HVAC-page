@@ -1,0 +1,32 @@
+
+*{
+    border: none;
+}
+.logIn{
+    min-height: 100vh;
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    background-image: url(392887512_807066994762979_7123966282568902891_n.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: opacity(100%);
+}
+.is-invalid{
+    border: 2PX solid black;
+    background-color: rgba(250, 235, 215, 0.472);
+}
+#validationServer02{
+    background-color: rgba(250, 235, 215, 0.297);
+   
+}
+#validationServer01{
+    background-color: rgba(250, 235, 215, 0.297);
+   
+}
+.row{
+    filter: grayscale(100%);
+
+    filter: opacity(200%);
+
+}
